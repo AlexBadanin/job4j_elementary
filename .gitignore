@@ -18,3 +18,9 @@ target
 
 out
 *.log
+
+# Windows system files
+desktop.ini
+
+# MacOS
+.DS_Store
